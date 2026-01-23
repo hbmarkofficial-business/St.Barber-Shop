@@ -115,8 +115,8 @@ const Contact = () => {
 
                   <div className="mt-6 pt-6 border-t border-border text-center">
                     <p className="text-muted-foreground text-sm">Oder rufen Sie uns direkt an:</p>
-                    <a href="tel:091199284458" className="text-primary font-semibold hover:underline">
-                      091199284458
+                    <a href="tel:091125383368" className="text-primary font-semibold hover:underline">
+                      091125383368
                     </a>
                   </div>
                 </div>
@@ -131,14 +131,14 @@ const Contact = () => {
 
                   <div className="aspect-video rounded-sm overflow-hidden border border-border">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2593.432623142442!2d11.064701376892808!3d49.45743975836284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479f57a3e2ee4dc9%3A0xa78dd749b6475e35!2sDein%20Barber%20Shop!5e0!3m2!1sde!2sde!4v1769117716313!5m2!1sde!2sde"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2593.297267890259!2d11.056631076892916!3d49.459997558181364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479f57c32273d8eb%3A0x7c5e74224b8e9b3c!2sSt.Barber%20Shop!5e0!3m2!1sde!2sde!4v1769180051094!5m2!1sde!2sde"
                       width="100%"
                       height="100%"
                       style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
                       allowFullScreen
                       loading="lazy"
                       referrerPolicy="no-referrer-when-downgrade"
-                      title="Standort Dein Barber Shop"
+                      title="Standort St.Barber Shop"
                     />
                   </div>
                 </div>
